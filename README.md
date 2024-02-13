@@ -13,11 +13,10 @@ I'm learning data science bootcamo. There are 10 sprints in th program.
 
 ## Second part of the program
 
-- Building website portfolio
 - Essential Statistics
-- Machine Learning For Data Analyst
-- Python programming
-- Essential Python For Data Analyst
+- Building website portfolio
 - Dashboard with Looker Studio
+- Machine Learning For Data Analyst
+- Essential Python For Data Analyst
 
   Contact: k.phumpanlop@gmail.com
