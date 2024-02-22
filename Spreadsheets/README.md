@@ -34,7 +34,8 @@ Convert TH to EN Date
       exchange and compatibility.
 
 
-![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/6410bd4a-6bbf-40ad-b217-cc0f4d9a93f5)
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/075f9cee-8232-400a-9022-1c364a6fa59a)
+
 
 
 ID Card Parser
