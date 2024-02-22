@@ -19,6 +19,10 @@
 
       https://docs.google.com/spreadsheets/d/19FCmlBUJ3oQlL6E7p1_vUcQeetg_7OUZgn2FMI2s8Wo/edit?usp=sharing
 
+- Workbook : Pivot table
+
+      https://docs.google.com/spreadsheets/d/1KhxCxyKFl8dC4TxbtVAHenRVJ3IsUZSYPxZABIaWAbs/edit?usp=sharing
+
 
 **Project**
 
