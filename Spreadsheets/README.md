@@ -5,6 +5,13 @@
 
 **Miniproject**
 
+
+Conditional formatting
+
+
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/dfede638-f199-4160-8852-eeac5bfa3432)
+
+
 Dynamic Filtering and Sorting
 
 
@@ -25,6 +32,7 @@ Convert TH to EN Date
 
 ID Card Parser
 
+      Utilize regular expressions for pattern matching in the Character ID Card Parser.
 
 ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/3ca96704-dda7-4734-a03a-7b6f3add6d60)
 
