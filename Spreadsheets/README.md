@@ -35,6 +35,17 @@ Dynamic Query
 ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/78f57af9-53d7-4f9f-a8d8-02174c238c43)
 
 
+VLOOKUP
+
+      Leverage the VLOOKUP function to synergistically merge the Employee data repository, 
+      incorporating with the positionID and location ID columns, to generate a comprehensive 
+      employee profile.
+
+
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/620a68ef-c219-4b87-94c1-62bf36ce213c)
+
+
+
 Convert TH to EN Date
 
       Efficiently managing date structures in compliance with the universally recognized international standard ISO 8601. 
