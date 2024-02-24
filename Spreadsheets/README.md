@@ -30,6 +30,9 @@ Freefire vs. PubG
 
       https://docs.google.com/spreadsheets/d/1p1_FPj7W68p9M3PMf6E9hiykAZPZxX-fHMfIzUg6YMo/edit?usp=sharing
 
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/9daa4e3f-04ba-4891-a855-1da2d3095ea2)
+
+
 
 **Miniproject**
 
