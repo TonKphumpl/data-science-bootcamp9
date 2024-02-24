@@ -17,7 +17,7 @@ and effortlessly combine data from multiple sources using JOIN clause
 
 This experience also provided me with valuable knowledge on various SQL functions, enabling me to filter, aggregate, and format data with ease.
 
-**SQL Code**
+**SQL Code in SQLite**
 
 - Select column and build new column
   
