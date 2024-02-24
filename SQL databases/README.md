@@ -17,7 +17,7 @@ and effortlessly combine data from multiple sources using JOIN clause
 
 This experience also provided me with valuable knowledge on various SQL functions, enabling me to filter, aggregate, and format data with ease.
 
-**SQL Code in SQLite**
+**SQL Code**
 
 - Select column and build new column
   
@@ -120,3 +120,11 @@ This experience also provided me with valuable knowledge on various SQL function
         ) AS t2
         ON t1.Customerid = t2.Customerid
         GROUP by 1,2,3;
+
+**ER Diagram**
+
+	https://www.sqlitetutorial.net/sqlite-sample-database/
+
+ 
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/cd5cf686-606b-4cdb-a8ee-53b53925a332)
+
