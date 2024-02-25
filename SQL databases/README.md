@@ -17,6 +17,13 @@ and effortlessly combine data from multiple sources using JOIN clause
 
 This experience also provided me with valuable knowledge on various SQL functions, enabling me to filter, aggregate, and format data with ease.
 
+**Skills** 
+
+- [Intro to Database and CRUD](https://www.notion.so/Sprint-02-Intro-to-Database-and-CRUD-1c083b871ce64f7788232156fd74c39d?pvs=4).
+- [SQL for Data Analyst 101](https://www.notion.so/Sprint-02-SQL-for-Data-Analyst-101-47941286266b4617b122148596ce79de?pvs=4).
+- [SQL for Data Analyst 102](https://www.notion.so/Sprint-02-SQL-for-Data-Analyst-102-1cdeed2dab9645cdb902bdefc8a95147?pvs=4).
+- [SQL for Data Analyst 103](https://www.notion.so/Sprint-02-SQL-for-Data-Analyst-103-73bb48039b234bc29ad670d95ad9f739?pvs=4).
+
 Mini Project:
 -
 
