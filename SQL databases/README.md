@@ -27,9 +27,7 @@ This experience also provided me with valuable knowledge on various SQL function
 Mini Project:
 -
 
-Pizza Restaurant
-
-	Replit Link : https://replit.com/@PhumpanlopKliny/sqlhomeworkbatch09TonPhumpl
+[Pizza Restaurant](https://replit.com/@PhumpanlopKliny/sqlhomeworkbatch09TonPhumpl).
  
 I build tables( customers, products, orders ) for simulate pizza restaurant and write 4 query for extracting data
 
