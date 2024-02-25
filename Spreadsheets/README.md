@@ -3,28 +3,19 @@
 **Google sheets Workbook**
 
 
-- Bootcamp - Google Sheets 
+- [Bootcamp - Google Sheets](https://docs.google.com/spreadsheets/d/1Ow-kYCrYOM9ZoddMsvuKOk9yVcfh1DkcpBXShg9Z6tw/edit?usp=sharing). 
 
-      https://docs.google.com/spreadsheets/d/1Ow-kYCrYOM9ZoddMsvuKOk9yVcfh1DkcpBXShg9Z6tw/edit?usp=sharing
+- [Google Sheets 101](https://docs.google.com/spreadsheets/d/1wk8g-QndAD_E1dwIcAjFDlb0l0VsrgqquwsCx_8JUzQ/edit?usp=sharing).
 
-- Google Sheets 101
+- [Google Sheets 102](https://docs.google.com/spreadsheets/d/1Ab8hyV_bej7fZIRNVowQzXZKn1HIDQZp6--d3DIl1LQ/edit?usp=sharing).
 
-      https://docs.google.com/spreadsheets/d/1wk8g-QndAD_E1dwIcAjFDlb0l0VsrgqquwsCx_8JUzQ/edit?usp=sharing
+- [Google Sheets 103 : Query Practice](https://docs.google.com/spreadsheets/d/19FCmlBUJ3oQlL6E7p1_vUcQeetg_7OUZgn2FMI2s8Wo/edit?usp=sharing).
 
-- Google Sheets 102
-
-      https://docs.google.com/spreadsheets/d/1Ab8hyV_bej7fZIRNVowQzXZKn1HIDQZp6--d3DIl1LQ/edit?usp=sharing
-
-- Google Sheets 103 : Query Practice
-
-      https://docs.google.com/spreadsheets/d/19FCmlBUJ3oQlL6E7p1_vUcQeetg_7OUZgn2FMI2s8Wo/edit?usp=sharing
-
-- Workbook : Pivot table
-
-      https://docs.google.com/spreadsheets/d/1KhxCxyKFl8dC4TxbtVAHenRVJ3IsUZSYPxZABIaWAbs/edit?usp=sharing
+- [Workbook : Pivot table](https://docs.google.com/spreadsheets/d/1KhxCxyKFl8dC4TxbtVAHenRVJ3IsUZSYPxZABIaWAbs/edit?usp=sharing).
 
 
 **Project**
+-
 
 Freefire vs. PubG
 
@@ -35,7 +26,8 @@ Freefire vs. PubG
 
 
 
-**Miniproject**
+**Mini project**
+-
 
 
 Conditional formatting
