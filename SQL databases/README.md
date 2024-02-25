@@ -17,114 +17,77 @@ and effortlessly combine data from multiple sources using JOIN clause
 
 This experience also provided me with valuable knowledge on various SQL functions, enabling me to filter, aggregate, and format data with ease.
 
+Mini Project:
+-
+
+Pizza Restaurant
+
+	Replit Link : https://replit.com/@PhumpanlopKliny/sqlhomeworkbatch09TonPhumpl
+ 
+I build tables( customers, products, orders ) for simulate pizza restaurant and write 4 query for extracting data
+
+- Query1 : List of customers who ordered food in 2023 and the total price of the food.
+- Query2 : Top 3 most ordered food items
+- Query3 : What food will female customers order during the period 2023 - 2024?
+- Query4 : Customers with the most purchases.
+
 **SQL Code**
 
-- Select column and build new column
+- Query1 : List of customers who ordered food in 2023 and the total price of the food.
   
       SELECT 
-	      invoicedate,
-          billingaddress,
-          total,
-          ROUND(total + (total*0.07), 2) AS total_incl_vat
-      FROM invoices
+            orderdate,
+            firstname || " " || lastname AS fullname,
+            gender,
+            age,
+            quantity,
+            totalprice,
+            productname
+      FROM (SELECT  * FROM customers
+            JOIN orders   ON customers.customerid = orders.customerid
+            JOIN products ON orders.productid = products.productid) AS Detail_OrdersCustomers_2023
+      WHERE STRFTIME("%Y", orderdate) = '2023'
+      GROUP BY firstname, lastname, productname
+      ORDER BY orderdate ASC;
 
-- Create eu_customers table 
+- Query2 : Top 3 most ordered food items 
 
-        CREATE TABLE eu_customers AS 
-            SELECT firstname, country, email 
-            FROM customers
-            WHERE country IN ('USA', 'France', 'Italy');
+      SELECT 
+            productname,
+            SUM(quantity) AS quantity_order,
+            SUM(totalprice) AS total_price
+      FROM (SELECT  * FROM customers
+      JOIN orders   ON customers.customerid = orders.customerid
+      JOIN products ON orders.productid = products.productid) AS Detail_OrdersCustomers_2023
+      GROUP BY productname
+      ORDER BY quantity_order DESC
+      Limit 3;
 
-- Use WHERE Clause for filter rows
+- Query3: What food will female customers order during the period 2023 - 2024?
 
-        SELECT 
-	        name,
-            composer,
-            bytes/(1024*1024) AS MB
-        FROM tracks
-        --WHERE bytes/(1024*1024) >= 8 AND composer LIKE 'Smith%'; 
-        --WHERE composer IS NULL; -- Missing value
-        --WHERE bytes/(1024*1024) BETWEEN 9 AND 10 -- Inclusive
-        LIMIT 5;
+      SELECT 
+            firstname || " " || lastname AS fullname,
+            gender,
+            age,
+            productname
+      FROM (SELECT  * FROM customers
+      JOIN orders   ON customers.customerid = orders.customerid
+      JOIN products ON orders.productid = products.productid) AS Detail_OrdersCustomers_2023
+      WHERE gender = 'Female'
+      AND STRFTIME("%Y", orderdate) BETWEEN '2023' AND '2024'
+      GROUP BY firstname, lastname, productname
+      ORDER BY orderdate ASC;
 
-- Use aggregate function with measurement columns
+- Query4 : Customers with the most purchases.
 
-        SELECT
-            COUNT(*) AS total_songs,
-            ROUND(AVG(bytes), 2) AS avg_bytes,
-            ROUND(SUM(bytes)/(1024*1024), 2) aS sum_mb,
-            MIN(bytes) AS min_bytes,
-            MAX(bytes) as max_bytes
-        FROM tracks;
+      SELECT 
+            firstname || " " || lastname AS fullname,
+            SUM(totalprice)
+      FROM (SELECT  * FROM customers
+      JOIN orders   ON customers.customerid = orders.customerid
+      JOIN products ON orders.productid = products.productid) AS Detail_OrdersCustomers_2023
+      GROUP BY firstname, lastname
+      ORDER BY SUM(totalprice) DESC
+      Limit 1;
 
-- Clean NULL values
-
-        SELECT 
-            company,
-            --REPLACE NULL
-            COALESCE(company, "B2C") AS clean_company, 
-            CASE
-            	  WHEN company IS NULL THEN "B2C"
-                ELSE "B2B"
-            END AS segment
-        FROM customers;
-
-- HAVING VS. WHERE
-  
-       SELECT
-          CASE
-              WHEN company IS NULL THEN "B2C"
-              ELSE "B2B"
-          END AS segment,
-          country,
-          COUNT(*) AS num_customers
-        FROM customers
-        WHERE country IN ('Belgium', 'France', 'Italy')
-        GROUP BY 1,2
-        HAVING num_customers > 1;
-
-- ORDER BY
- 
-        SELECT 
-          name, 
-          ROUND(milliseconds/ 60000.0, 2) AS minute
-        FROM tracks
-        ORDER BY minute DESC
-        LIMIT 5;
-
-- JOIN Tables
-
-        SELECT 
-            ar.Name AS artists_name,
-            al.Title AS albums_name,
-            tr.Name AS tracks_name,
-            ge.Name AS genres,
-            milliseconds,
-            bytes,
-            unitprice
-        FROM artists 	    AS ar
-        INNER JOIN albums AS al ON ar.ArtistId = al.ArtistId -- PK = FK
-        INNER JOIN tracks AS tr ON tr.AlbumId  = al.AlbumId
-        INNER JOIN genres AS ge ON ge.GenreId  = tr.Genre
-
-- Subqueries
-
-        SELECT firstname, lastname, email, COUNT(*)
-        FROM (
-            SELECT * FROM customers
-          	WHERE country = 'USA'
-        ) AS t1
-        JOIN (
-        	SELECT * FROM invoices
-         	WHERE STRFTIME("%Y-%m", invoicedate) = "2009-10"
-        ) AS t2
-        ON t1.Customerid = t2.Customerid
-        GROUP by 1,2,3;
-
-**ER Diagram**
-
-	https://www.sqlitetutorial.net/sqlite-sample-database/
-
- 
-  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/cd5cf686-606b-4cdb-a8ee-53b53925a332)
 
