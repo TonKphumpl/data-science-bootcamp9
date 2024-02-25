@@ -12,8 +12,11 @@ Through intensive training at the Datarockie bootcamp, I cultivated my skillset 
 **Mini Projects**
 -
 
-[Rock Paper Scissors Game](https://colab.research.google.com/drive/1U3RdSgnagSV4QQpwbj8NcMGZ9qsTxV6N?authuser=3#scrollTo=KzAkG_LXA7NM).
+[Rock Paper Scissors Game](https://colab.research.google.com/drive/1U3RdSgnagSV4QQpwbj8NcMGZ9qsTxV6N?usp=sharing).
 
-    
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/825f78fd-1249-493d-853b-eac90cde06fd)
 
-[Pizza Chatbot](https://colab.research.google.com/drive/1U3RdSgnagSV4QQpwbj8NcMGZ9qsTxV6N?authuser=3#scrollTo=tPT2Bp8iun0C).
+[Pizza Chatbot](https://colab.research.google.com/drive/1Vhaqo1y9FhUXf_KFg59jugoYukdXywh8?usp=sharing).
+
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/f5591b81-017d-4740-af20-d46b52e43c65)
+
