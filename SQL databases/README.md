@@ -5,6 +5,10 @@ I gained proficiency in writing and utilizing sophisticated Structured Query Lan
 The program equipped me with the skills to effectively manipulate and analyze data, allowing me to retrieve specific information from tables through via using clauases and effortlessly combine data from multiple sources using JOIN clause.
 This experience also provided me with valuable knowledge on various SQL functions, enabling me to filter, aggregate, and format data with ease.
 
+**Tools**
+
+- [Replit](https://replit.com/~)
+
 **Skills** 
 
 - [Intro to Database and CRUD](https://www.notion.so/Sprint-02-Intro-to-Database-and-CRUD-1c083b871ce64f7788232156fd74c39d?pvs=4).
