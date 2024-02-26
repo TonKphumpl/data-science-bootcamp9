@@ -1,7 +1,19 @@
 **Data Visualization**
 -
 
-Skills
+**Tools**
+
+- [Google Sheets](https://docs.google.com/spreadsheets/)
+
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/74da5465-db6e-4172-9de3-74882feae7b3)
+
+- [Posit Cloud](https://posit.cloud/)
+
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/7a4ed547-bb39-4d5a-bb14-467adf0ee7fb)
+
+
+
+**Skills**
 
 [Data Visualization (Live)](https://www.notion.so/Live-8-Data-Visualization-ca44881b6b064ff7ae662e172e51fbb9?pvs=4).
 
