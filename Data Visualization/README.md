@@ -9,8 +9,14 @@ Skills
 
 [Data Visualization in Excel](https://www.notion.so/Sprint-05-Data-Visualization-in-Excel-39fe1a0bfd6045de96449c1a36a0cf80?pvs=4).
 
+**Project**
+-
+
+[Freefire vs. PubG](https://docs.google.com/spreadsheets/d/1p1_FPj7W68p9M3PMf6E9hiykAZPZxX-fHMfIzUg6YMo/edit?usp=sharing).
+
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/26ff63ba-d095-4820-b328-036f12d6e500)
 
 **Mini Projects**
 -
 
-![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/0468271a-fb32-4b4d-8489-1cab27aae74b)
+[embed]http://example.com/file.pdf[/embed]
