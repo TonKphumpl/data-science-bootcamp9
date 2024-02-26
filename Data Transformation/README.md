@@ -1,6 +1,18 @@
 **Data Transformation**
 -
 
+**Tools**
+
+- [Posit Cloud](https://posit.cloud/)
+
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/149844ee-f850-44d5-82cb-c26fd6091805)
+
+- [ElephantSQL](https://www.elephantsql.com/)
+
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/f12cab77-fb54-43e2-b467-9b233ee75bb6)
+
+
+
 **Skills**
 
 [Data Transformation (Live)](https://www.notion.so/Live-7-Data-Transformation-d02d6891acae4a5ea2b78a84a79943d2?pvs=4).
