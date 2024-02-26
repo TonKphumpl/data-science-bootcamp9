@@ -8,7 +8,13 @@ This experience also provided me with valuable knowledge on various SQL function
 **Tools**
 
 - [Replit](https://replit.com/~)
+
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/79151632-539b-4602-aeec-5438d158d2e7)
+
 - [SQLite online](https://sqliteonline.com/)
+
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/1bc48753-67e9-4f1b-b247-dd9a9ae91c82)
+
 
 **Skills** 
 
