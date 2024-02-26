@@ -24,7 +24,7 @@ Skills
 
 ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/15675b7c-221c-4e1b-bfc7-f529795ed7ce)
 
-[Assignment01_API](https://colab.research.google.com/drive/1wG2RVUyqBIlKUMIMLxnuNXkrBU7Ato4w?usp=sharing)
+[Request_API](https://colab.research.google.com/drive/1wG2RVUyqBIlKUMIMLxnuNXkrBU7Ato4w?usp=sharing)
 
 ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/beeb3aba-47f2-4db9-a025-308ef4e20b8b)
 
