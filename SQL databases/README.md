@@ -99,5 +99,6 @@ I build tables( customers, products, orders ) for simulate pizza restaurant and 
 
 ![Screenshot 2024-02-25 232641](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/2cc05bc6-6f44-4558-8cfb-767327d839e5)
 
-![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/4332a4bd-36a7-444b-a080-a4d60c714b35)
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/efc513fe-d138-46e0-b3b4-5a781d3f7d13)
+
 
