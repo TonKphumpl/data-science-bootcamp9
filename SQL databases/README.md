@@ -1,20 +1,8 @@
 **SQL Database**
 -----------------------------------------------------
 
-I gained proficiency in writing and utilizing sophisticated Structured Query Language (SQL) statements. The program equipped me with the skills to effectively manipulate and analyze data, allowing me to retrieve specific information from tables through via using clauases
-
-- SELECT  
-- WHERE
-- Aggregate function 
-- Group by
-- Having
-- Order by
-  
-and effortlessly combine data from multiple sources using JOIN clause
-
-- Inner join
-- Left join
-
+I gained proficiency in writing and utilizing sophisticated Structured Query Language (SQL) statements. 
+The program equipped me with the skills to effectively manipulate and analyze data, allowing me to retrieve specific information from tables through via using clauases and effortlessly combine data from multiple sources using JOIN clause.
 This experience also provided me with valuable knowledge on various SQL functions, enabling me to filter, aggregate, and format data with ease.
 
 **Skills** 
