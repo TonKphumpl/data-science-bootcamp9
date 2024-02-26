@@ -16,7 +16,7 @@ I'm learning data science bootcamo. There are 10 sprints in th program.
 - [Essential Statistics](Statistics)
 - Building website portfolio
 - [Dashboard with Looker Studio](Dashboard)
-- Machine Learning For Data Analyst
-- Essential Python For Data Analyst
+- [Machine Learning For Data Analyst](Machine_Learning)
+- [Essential Python For Data Analyst](Python%20Programming)
 
   Contact: k.phumpanlop@gmail.com
