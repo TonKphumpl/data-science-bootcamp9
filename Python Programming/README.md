@@ -6,7 +6,13 @@
 **Tools**
 
 - [Google Colab](https://colab.research.google.com/)
+
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/7b62769a-1c99-4e12-b75d-715c128ee185)
+
 - [DataLore](https://datalore.jetbrains.com/notebooks)
+
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/d7d520c5-905b-41da-99c4-d69d2eab63a9)
+
 
 **Skills**
 
