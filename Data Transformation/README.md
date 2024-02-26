@@ -10,4 +10,6 @@
 **Mini Project**
 -
 
+[Data tranformation with R](https://www.notion.so/Data-transformation-and-PostgreSQL-fe27e3c22a684267a63e25b8f0e3a314?pvs=4).
 
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/cafa95ab-baf5-4e03-9cfb-6522808b04c2)
