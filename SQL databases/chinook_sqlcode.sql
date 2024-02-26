@@ -1,15 +1,15 @@
-/*SELECT 
+SELECT 
 	firstname AS fname, 
     lastname AS lname,
     firstname || " " || lastname AS fullname -- alias create name
 FROM customers;*/
 
-/*SELECT 
+SELECT 
 	invoicedate,
     billingaddress,
     total,
     ROUND(total + (total*0.07), 2) AS total_incl_vat
-FROM invoices;*/
+FROM invoices;
 
 SELECT 
 	invoicedate,
@@ -43,21 +43,21 @@ FROM tracks
 --WHERE bytes/(1024*1024) BETWEEN 9 AND 10 -- Inclusive
 LIMIT 5;
 
-/*SELECT
+SELECT
 	COUNT(*),
     COUNT(name),
     COUNT(composer), -- contains NULL
     COUNT(name) - COUNT(composer) AS null_in_composer_field
-FROM tracks;*/
+FROM tracks;
 
--- 	AGGREGATE FUNCTION
-/*SELECT
+-- AGGREGATE FUNCTION
+SELECT
 	COUNT(*) AS total_songs,
     ROUND(AVG(bytes), 2) AS avg_bytes,
     ROUND(SUM(bytes)/(1024*1024), 2) aS sum_mb,
     MIN(bytes) AS min_bytes,
     MAX(bytes) as max_bytes
-FROM tracks;*/
+FROM tracks;
 
 -- BUILD NEW COLUMN BY USE CONDITION
 CREATE TABLE num_songs AS
@@ -74,7 +74,7 @@ CREATE TABLE num_songs AS
     GROUP BY segment;
     
 -- Clean NULL values
-/*SELECT 
+SELECT 
 	company,
     --REPLACE NULL
     COALESCE(company, "B2C") AS clean_company, 
@@ -82,11 +82,11 @@ CREATE TABLE num_songs AS
     	WHEN company IS NULL THEN "B2C"
         ELSE "B2B"
     END AS segment
-FROM customers;*/
+FROM customers;
 
 -- HAVING VS. WHERE
 -- USE GROUP BY > 1 COLUMN
-/*SELECT
+SELECT
 	CASE
     	WHEN company IS NULL THEN "B2C"
         ELSE "B2B"
@@ -110,7 +110,7 @@ ORDER BY minute DESC
 LIMIT 5;
 
 --join syntax
-/*SELECT 
+SELECT 
 	ar.Name AS artists_name,
     al.Title AS albums_name,
     tr.Name AS tracks_name,
@@ -124,7 +124,7 @@ INNER JOIN albums AS al
 INNER JOIN tracks AS tr
 	ON tr.AlbumId = al.AlbumId
 INNER JOIN genres AS ge
-	ON ge.GenreId = tr.GenreId;*/
+	ON ge.GenreId = tr.GenreId;
 
 --AGGREGATE + JOIN 
 SELECT 
@@ -152,7 +152,7 @@ CREATE VIEW genre_stats AS
     GROUP BY 1
     ORDER BY 3 DESC;
     
-/*--SUBQUERIES
+--SUBQUERIES
 SELECT firstname, country
 FROM (SELECT * FROM customers) AS sub
 WHERE country = 'United Kingdom';
@@ -161,7 +161,7 @@ WHERE country = 'United Kingdom';
 WITH sub AS (SELECT * FROM customers)
 SELECT firstname, country
 FROM sub
-WHERE country = 'United Kingdom';*/
+WHERE country = 'United Kingdom';
 
 --EXAMPLE SUBQUERIES + WITH CLAUSE
 	--QUERY American customers who purchase our products in 2009-10 (invoices)
