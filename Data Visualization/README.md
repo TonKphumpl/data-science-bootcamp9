@@ -10,3 +10,7 @@ Skills
 [Data Visualization in Excel](https://www.notion.so/Sprint-05-Data-Visualization-in-Excel-39fe1a0bfd6045de96449c1a36a0cf80?pvs=4).
 
 
+**Mini Projects**
+-
+
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/0468271a-fb32-4b4d-8489-1cab27aae74b)
