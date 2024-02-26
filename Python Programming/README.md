@@ -10,7 +10,7 @@ Skills
 
 **Project**
 
-[Pandas Foundation - Final Project](https://datalore.jetbrains.com/notebook/Zem07hzi5ap248FXyopnMw/7b3iTmflIDCjFyqIFERP8P)
+[Analyzing Sales Data](https://datalore.jetbrains.com/notebook/Zem07hzi5ap248FXyopnMw/7b3iTmflIDCjFyqIFERP8P)
 
 ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/2dac4a3f-2733-4b69-8225-b2f5980348bf)
 
@@ -28,7 +28,7 @@ Skills
 
 ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/beeb3aba-47f2-4db9-a025-308ef4e20b8b)
 
-[Assignment02_ATM](https://colab.research.google.com/drive/1BfcvkpZevQGkpwimLmtgQJgq6b0-1ldv?usp=sharing)
+[OOP_ATM](https://colab.research.google.com/drive/1BfcvkpZevQGkpwimLmtgQJgq6b0-1ldv?usp=sharing)
 
 ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/8beea51e-3986-40d4-9c9d-f6763841d1fd)
 
