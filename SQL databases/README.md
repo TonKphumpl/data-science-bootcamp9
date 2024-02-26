@@ -29,7 +29,7 @@ Mini Project:
 
 [Pizza Restaurant](https://replit.com/@PhumpanlopKliny/sqlhomeworkbatch09TonPhumpl).
  
-I build tables( customers, products, orders ) for simulate pizza restaurant and write 4 query for extracting data
+I build tables( customers, products, orders ) for simulate pizza restaurant and write 4 subquery for extracting data
 
 - Query1 : List of customers who ordered food in 2023 and the total price of the food.
 - Query2 : Top 3 most ordered food items
@@ -95,4 +95,9 @@ I build tables( customers, products, orders ) for simulate pizza restaurant and 
       ORDER BY SUM(totalprice) DESC
       Limit 1;
 
+[Create connection with RPostgreSQL](https://www.notion.so/Data-transformation-and-PostgreSQL-fe27e3c22a684267a63e25b8f0e3a314?pvs=4).
+
+![Screenshot 2024-02-25 232641](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/2cc05bc6-6f44-4558-8cfb-767327d839e5)
+
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/4332a4bd-36a7-444b-a080-a4d60c714b35)
 
