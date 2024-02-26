@@ -3,6 +3,17 @@
 
 Through intensive training at the Datarockie bootcamp, I cultivated my skillset in R programming. I gained foundational knowledge in data manipulation and analysis using the powerful libraries of dplyr, ggplot2, and the comprehensive tidyverse package.
 
+**Tools**
+
+- [Posit Cloud](https://posit.cloud/)
+
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/14de7b87-8e02-4cd0-b7fd-18c07371f481)
+
+- [Google Colab](https://colab.google/)
+  
+  ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/37deacd1-6e6f-4810-b701-69e14a324556)
+
+
 **Skills**
 
 - R Foundation
