@@ -24,7 +24,7 @@ Data => [League of Legends Stats: S13, from Kaggle](https://www.kaggle.com/datas
 
 [Pokémon Stats (Pokémon Go)](https://public.tableau.com/views/PokmonStatsPokmonGo/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 
-Data => [Pokémon Stats (Pokémon Go)](https://www.kaggle.com/datasets/calebreigada/pokemon).
+Data => [Pokémon Stats (Pokémon Go) from kaggle](https://www.kaggle.com/datasets/calebreigada/pokemon).
 
 ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/f82ac868-ff95-43cc-a4f0-268dddb6771c)
 
