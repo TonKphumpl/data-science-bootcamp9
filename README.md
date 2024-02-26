@@ -8,8 +8,8 @@ I'm learning data science bootcamo. There are 10 sprints in th program.
 - [Spreadsheets](Spreadsheets)
 - [SQL databases](SQL databases)
 - [R Programming](R_programming)
-- [Data Transformation](Data Transformation).
-- [Data Visualization](Data Visualization).
+- [Data Transformation](Data Transformation)
+- [Data Visualization](Data Visualization)
 
 ## Second part of the program
 
