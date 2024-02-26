@@ -1,7 +1,14 @@
 **Python Programming**
 -
 
-Skills
+
+
+**Tools**
+
+- [Google Colab](https://colab.research.google.com/)
+- [DataLore](https://datalore.jetbrains.com/notebooks)
+
+**Skills**
 
 - [Intro to Python](https://www.notion.so/Sprint-08-Intro-to-Python-039a36182eae4e6da752b5b334df9dbb?pvs=4)
 - [Essential Python for Data Science](https://www.notion.so/Sprint-09-Essential-Python-for-Data-Science-d9c4072eb614409d848496e522bfe1fd?pvs=4)
