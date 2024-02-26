@@ -12,6 +12,8 @@ Skills
 
 [Pandas Foundation - Final Project](https://datalore.jetbrains.com/notebook/Zem07hzi5ap248FXyopnMw/7b3iTmflIDCjFyqIFERP8P)
 
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/2dac4a3f-2733-4b69-8225-b2f5980348bf)
+
 **Mini Projects**
 
 [Rock-Paper-Scissors Game](https://colab.research.google.com/drive/1Tgly0n3x8BKTmDOu8nNyVy5CFGQn_bmV?usp=sharing)
