@@ -76,7 +76,7 @@ restaurant_pizza <- dbConnect(
   host = "floppy.db.elephantsql.com",
   dbname = "mifbsjfc",
   user = "mifbsjfc",
-  password = "vSy6zstvlCouHP8IuI0YRZvoBT6irs_d",
+  password = "*******************************",
   port = 5432
 )
 
