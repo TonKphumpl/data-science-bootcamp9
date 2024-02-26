@@ -6,10 +6,10 @@ I'm learning data science bootcamo. There are 10 sprints in th program.
 
 - Intro data science
 - [Spreadsheets](Spreadsheets)
-- [SQL databases](SQL databases)
+- [SQL databases](SQL%20databases)
 - [R Programming](R_programming)
-- [Data Transformation](Data Transformation)
-- [Data Visualization](Data Visualization)
+- [Data Transformation](Data%20Transformation)
+- [Data Visualization](Data%20Visualization)
 
 ## Second part of the program
 
