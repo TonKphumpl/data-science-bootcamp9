@@ -1,6 +1,6 @@
 # Data Science Bootcamp Batch 9
 
-I'm learning data science bootcamo. There are 10 sprints in th program.
+I'm learning data science bootcamp. There are 10 sprints in th program.
 
 ## First part of the program
 
@@ -18,5 +18,6 @@ I'm learning data science bootcamo. There are 10 sprints in th program.
 - [Dashboard with Looker Studio](Dashboard)
 - [Machine Learning For Data Analyst](Machine_Learning%20)
 - [Essential Python For Data Analyst](Python%20Programming)
+  
 
-  Contact: k.phumpanlop@gmail.com
+      Contact: k.phumpanlop@gmail.com
