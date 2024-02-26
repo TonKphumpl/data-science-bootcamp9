@@ -19,4 +19,7 @@ Skills
 **Mini Projects**
 -
 
-[embed]http://example.com/file.pdf[/embed]
+[MPG_Visualization](HW_DataViz_Ton.pdf)
+
+![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/2adc0c81-b85c-4a45-bec4-80cd63e4a812)
+
