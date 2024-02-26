@@ -5,13 +5,29 @@ Through intensive training at the Datarockie bootcamp, I cultivated my skillset 
 
 **Skills**
 
-- [R101 / Getting Started with R](https://www.notion.so/Sprint-03-R101-Getting-Started-with-R-428fda8055424f62bb8a31cdfdd9a192?pvs=4).
-- [R102 / Control Flow and Function](https://www.notion.so/Sprint-03-R102-Control-Flow-and-Function-a680e2a3ea6e4635a4820c5241cb86b3?pvs=4).
-- [R103 / Working with Data](https://www.notion.so/Sprint-03-R103-Working-with-Data-4287d6f3d2574b6296ae9846cf331936?pvs=4).
-- [Data Transformation (Live)](https://www.notion.so/Live-7-Data-Transformation-d02d6891acae4a5ea2b78a84a79943d2?pvs=4).
-- [Data Transformation (Basic)](https://www.notion.so/Sprint-04-Data-Transformation-c5e89c36c2534ee48d11112d457b670f?pvs=4).
-- [Data Transformation (Intermediate)](https://www.notion.so/Sprint-04-Data-Transformation-Intermediate-82f05ba4ba9741ab867e03018d77f9db?pvs=4).
-- [Data Visualization](https://www.notion.so/Live-8-Data-Visualization-ca44881b6b064ff7ae662e172e51fbb9?pvs=4).
+- R Foundation
+
+[R101 / Getting Started with R](https://www.notion.so/Sprint-03-R101-Getting-Started-with-R-428fda8055424f62bb8a31cdfdd9a192?pvs=4).
+
+[R102 / Control Flow and Function](https://www.notion.so/Sprint-03-R102-Control-Flow-and-Function-a680e2a3ea6e4635a4820c5241cb86b3?pvs=4).
+
+[R103 / Working with Data](https://www.notion.so/Sprint-03-R103-Working-with-Data-4287d6f3d2574b6296ae9846cf331936?pvs=4).
+
+- Data Transformation with R
+  
+[Data Transformation (Live)](https://www.notion.so/Live-7-Data-Transformation-d02d6891acae4a5ea2b78a84a79943d2?pvs=4).
+
+[Data Transformation (Basic)](https://www.notion.so/Sprint-04-Data-Transformation-c5e89c36c2534ee48d11112d457b670f?pvs=4).
+
+[Data Transformation (Intermediate)](https://www.notion.so/Sprint-04-Data-Transformation-Intermediate-82f05ba4ba9741ab867e03018d77f9db?pvs=4).
+
+- Data Visualization with R
+
+[Data Visualization (Live)](https://www.notion.so/Live-8-Data-Visualization-ca44881b6b064ff7ae662e172e51fbb9?pvs=4).
+
+[Intro to Data Visualization](https://www.notion.so/Sprint-05-Intro-to-Data-Visualization-51e4814867024d5dbfd6ad912edacd03?pvs=4).
+
+[Data Visualization in Excel](https://www.notion.so/Sprint-05-Data-Visualization-in-Excel-39fe1a0bfd6045de96449c1a36a0cf80?pvs=4).
 
 **Mini Projects**
 -
