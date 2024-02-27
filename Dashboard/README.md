@@ -1,6 +1,12 @@
 **Dashboard**
 -
 
+**Skills**
+
+[Dashboard With Looker Studio](https://www.notion.so/Live-12-Dashboard-With-Looker-Studio-fc8ace7f3f3e48d59b49f667ef50fded?pvs=4)
+
+**Certificate**
+
 [Google Analytics Academy :  Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/MUwhIi72TQuJqenNnFoLFg)
 
 ![image](https://github.com/TonKphumpl/data-science-bootcamp9/assets/139863067/f4e781fb-689c-448d-a897-135e69764fab)
